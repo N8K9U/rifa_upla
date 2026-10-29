@@ -1,0 +1,14 @@
+[
+    {
+        "id": 5,
+        "nombre": "Eileen",
+        "apellido": "Valdivia",
+        "numero_rifa": 99
+    },
+    {
+        "id": 6,
+        "nombre": "Enrique",
+        "apellido": "Ordenes",
+        "numero_rifa": 25
+    }
+]

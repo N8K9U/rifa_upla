@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gift Card $50.000",
+        "descripcion": "Válida en grandes tiendas",
+        "estado": "Disponible"
+    },
+    {
+        "id": 2,
+        "nombre": "Bicicleta Aro 29",
+        "descripcion": "Bicicleta de montaña",
+        "estado": "Disponible"
+    }
+]
